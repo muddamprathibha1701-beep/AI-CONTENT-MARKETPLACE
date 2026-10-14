@@ -1,0 +1,6 @@
+{
+  "name": "Synthlane - Generative AI Asset & Workflow Marketplace",
+  "description": "Curated marketplace for production-ready LoRA weights, 3D Gaussian splats, autonomous agent workflows, and verified creator commissions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
